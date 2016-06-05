@@ -24,7 +24,7 @@ body {
 	background:radial-gradient(closest-side at 50% 96%,white,black);
 }
 #footer {
-	bottom:25px;
+	top:700px;
 }
 #logo {
 	position:relative;
