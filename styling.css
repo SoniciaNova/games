@@ -47,8 +47,7 @@ p {
 .toolbarButton {
 	background:linear-gradient(#0c06a3,black);
 	width:353px;
-	height:20px;
-	padding:10px;
+	height:50px;
 	font-family:Arial;
 	font-weight:bold;
 	font-size:18px;
