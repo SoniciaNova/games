@@ -68,3 +68,20 @@ p {
 	left:377px;
 	top:-25px;
 }
+#playButton {
+	background-color:black;
+	border-left:5px solid #064158;
+	border-top:5px solid #064158;
+	width:150px;
+	height:35px;
+	padding-top:15px;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+	top:10px;
+	left:25px;
+}
+#playButton:hover {
+	background-color:blue;
+}
