@@ -5,20 +5,26 @@ body {
 	margin:auto;
 	margin-top:50px;
 	width:750px;
-	height:1000px;
 	background-color:#0670a3;
 	border-right:5px solid #064158;
 	border-bottom:10px solid #064158;
 }
-#header {
+.container {
 	width:700px;
 	height:125px;
 	position:relative;
 	left:25px;
-	top:25px;
-	background:radial-gradient(closest-side at 50% 96%,white,black);
+	background-color:black;
 	border-left:5px solid #064158;
 	border-top:5px solid #064158;
+	text-align:center;
+}
+#header {
+	top:25px;
+	background:radial-gradient(closest-side at 50% 96%,white,black);
+}
+#footer {
+	bottom:25px;
 }
 #logo {
 	position:relative;
