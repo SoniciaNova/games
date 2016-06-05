@@ -75,6 +75,8 @@ p {
 	width:150px;
 	height:35px;
 	padding-top:15px;
+	position:relative;
+	color:white;
 	font-family:Arial;
 	font-size:18px;
 	font-weight:bold;
