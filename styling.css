@@ -108,3 +108,8 @@ body {
 #playButton:hover {
 	background-color:blue;
 }
+#cooltext {
+	position:relative;
+	top:-44px;
+	left:185px;
+}
