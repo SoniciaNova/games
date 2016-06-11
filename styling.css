@@ -25,7 +25,6 @@ body {
 }
 #footer {
 	top:275px;
-	text-align:center;
 }
 #logo {
 	position:relative;
@@ -38,18 +37,33 @@ body {
 	font-size:24px;
 	font-weight:bold;
 	font-style:underline;
+	position:relative;
+	left:25px;
 }
 .mainTxt {
 	color:white;
 	font-family:Helvetica;
 	font-size:18px;
+	position:relative;
+	left:25px;
 }
-p {
+.footerTxt {
+	color:white;
+	font-family:Helvetica;
+	font-size:18px;
+	text-align:left;
+	position:relative;
+	top:0px;
+	left:25px;
+}
+.blandTxt {
+	color:white;
+	font-family:Helvetica;
+	font-size:18px;
 	text-align:left;
 	position:relative;
 	left:25px;
-	top:50px;
-	width:700px;
+	top:-55px;
 }
 .toolbarButton {
 	background:linear-gradient(#0c06a3,black);
