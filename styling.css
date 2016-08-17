@@ -1,6 +1,9 @@
 body {
 	background:linear-gradient(#0c06a3,black);
 }
+a {
+	text-decoration:none;
+}
 #mainContainer {
 	margin:auto;
 	margin-top:50px;
