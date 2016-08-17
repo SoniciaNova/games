@@ -10,7 +10,7 @@ a {
 	margin:auto;
 	margin-top:50px;
 	width:750px;
-	height:1050px;
+	height:850px;
 	background-color:#0670a3;
 	border-right:5px solid #064158;
 	border-bottom:10px solid #064158;
@@ -100,7 +100,7 @@ a {
 	border-top:2.5px solid #064158;
 	width:150px;
 	height:35px;
-	padding:15px;
+	padding-top:15px;
 	position:relative;
 	color:white;
 	font-family:Arial;
