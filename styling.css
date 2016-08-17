@@ -28,6 +28,7 @@ a {
 }
 #footer {
 	top:275px;
+	position:relative;
 }
 #logo {
 	position:relative;
