@@ -1,0 +1,105 @@
+
+/*All programming by Andrew Alban, founder of SoniciaNova, 2016*/
+
+
+/*Tags*/
+
+body {
+	background:linear-gradient(#00126d,black);
+}
+a {
+	text-decoration:none;
+}
+
+/*IDs*/
+
+#header {
+	width:100%;
+	height:12%;
+	position:fixed;
+	top:0;
+	left:0;
+	background:radial-gradient(closest-side at 50% 80%,white,grey,black);
+	text-align:center;
+}
+#navbar {
+	width:100%;
+	height:5%;
+	position:fixed;
+	top:12%;
+	left:0;
+	background:linear-gradient(black,#0023ce);
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:5px;
+	border-bottom:2px solid black;
+}
+#container {
+	width:65%;
+	height:1200px;
+	top:17%;
+	margin:auto;
+	background:#0080ce;
+	padding-top:10%;
+	padding-left:30px;
+}
+#footer {
+	position:relative;
+	top:95%;
+	left:0;
+	color:white;
+	background:black;
+	width:100%;
+	text-align:center;
+}
+
+/*Classes*/
+
+.nav_button {
+	display:inline-block;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	text-align:center;
+	width:200px;
+	border-left:1px solid white;
+	border-right:1px solid white;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.nav_link {
+	display:inline-block;
+}
+.play_button {
+	width:100px;
+	height:40px;
+	color:white;
+	font-family:Arial;
+	font-size:22px;
+	background:black;
+	border-left:5px solid #005b7e;
+	border-top:5px solid #005b7e;
+	text-align:center;
+	padding-top:10px;
+}
+.divider {
+	width:50%;
+	height:1px;
+	border:1px solid white;
+	background-color:white;
+}
+.title {
+	color:cyan;
+	font-size:48px;
+	font-family:Arial;
+}
+.subtitle {
+	color:yellow;
+	font-size:30px;
+	font-family:Helvetica;
+}
+.text {
+	color:white;
+	font-size:22px;
+	font-family:Helvetica;
+}
