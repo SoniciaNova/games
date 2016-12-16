@@ -1,0 +1,110 @@
+/*SoniciaNova website programming by Andrew Alban, 2016.
+This code is property of SoniciaNova. Piracy of this code is illegal. */
+
+body {
+	background: linear-gradient(#0022c9,black);
+	height:900px;
+	text-align:center;
+}
+h1 {
+	color:#00fde7;
+}
+h2 {
+	color:yellow;
+	font-style:italic;
+}
+p {
+	font-size:18px;
+}
+a {
+	text-decoration:none;
+}
+#mainContainer {
+	background:#0088bd;
+	width:650px;
+	height:800px;
+	position:relative;
+	top:50px;
+	margin:auto;
+	padding:7px;
+	border-right:solid 7.5px #004f6d;
+	border-bottom:solid 10px #004f6d;
+	text-align:left;
+	color:white;
+	font-family:Arial;
+	padding-left:25px;
+	padding-right:25px;
+}
+#header {
+	background:radial-gradient(closest-side at 50% 90%,white,grey,black);
+	border-left:solid 7.5px #004f6d;
+	border-top:solid 7.5px #004f6d;
+	height:100px;
+	width:575px;
+	margin:auto;
+	position:relative;
+	top:30px;
+	text-align:center;
+}
+#website_title {
+	position:relative;
+	top:15px;
+}
+#navBar {
+	width:575px;
+	height:53px;
+	border-left:solid 7.5px #004f6d;
+	background:black;
+	position:relative;
+	margin:auto;
+	top:25px;
+	text-align:center;
+}
+#homeButton {
+	border-left:2px solid white;
+	border-right:2px solid white;
+}
+#footer {
+	color:white;
+	font-family:Arial;
+	font-size:18px;
+	position:relative;
+}
+#ptaButton {
+	width:150px;
+	height:40px;
+	padding-top:15px;
+}
+#ptaButton:hover {
+	background:#0022c9;
+}
+.navButton {
+	width:190.2px;
+	height:40px;
+	padding-top:10px;
+	color:white;
+	font-family:Arial;
+	display:inline-block;
+	position:relative;
+	top:2.5px;
+	background:linear-gradient(black,#0022c9);
+	font-size:20px;
+}
+.navButton:hover {
+	background:#0022c9;
+}
+.playButton {
+	background:black;
+	text-align:center;
+	color:white;
+	font-size:Arial;
+	font-size:20px;
+	border-left:solid 7.5px #004f6d;
+	border-top:solid 7.5px #004f6d;
+}
+.divider {
+	width:300px;
+	height:1px;
+	color:white;
+	border:2px solid white;
+}
